@@ -71,7 +71,7 @@ The integration architecture maps to the polarity model:
 
 | Integration Layer | Polarity Equivalent |
 |---|---|
-| ANTE-ESSE | Shadow / pre-creation potential |
+| ANTE-ESSE | Analogous to Shadow / pre-creation potential |
 | THE + SPHINCTER | NULLUS threshold crossing |
 | MAW | Post-inversion emergence |
 | System Canon | Established polarity state |
