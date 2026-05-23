@@ -7,7 +7,7 @@ The port-of-entry model describes the layered architecture through which content
 ## The Layered Entry Model
 
 ```
-Layer 0: Pure Existence / Pure-Black-Ground-Dark
+Layer 0: Pure Existence / Pure Black Ground Dark
          (the undifferentiated field; before shadow; before potential)
 
 Layer 1: Pre-Processing / Rough Intake
@@ -22,7 +22,7 @@ Layer 3: Official Entry / MAW Intake
 
 ---
 
-## Layer 0: Pure Existence / Pure-Black-Ground-Dark
+## Layer 0: Pure Existence / Pure Black Ground Dark
 
 The deepest layer — before shadow, before potential, before even the pre-creation field. This is the undifferentiated ground of existence: the space that precedes even the possibility of NULLUS. It is not emptiness; it is absolute ground — the pure black from which shadow emerges.
 
@@ -105,7 +105,7 @@ Both involve a crossing through a threshold. Both preserve the entity's identity
 ## Improvement Notes 🍥
 
 - Consider adding a small visual flow diagram to reinforce the sequence: ANTE-ESSE → THE/SPHINCTER → MAW.
-- Consider adding direct glossary links for "shadow" and "void" terminology to prevent future semantic drift.
+- Consider adding direct glossary links for "shadow" and "pure ground" terminology to prevent future semantic drift.
 
 ---
 
