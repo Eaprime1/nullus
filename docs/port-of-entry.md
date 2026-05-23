@@ -1,4 +1,4 @@
-# Port of Entry
+# Port of Entry 🍥
 
 The port-of-entry model describes the layered architecture through which content enters the NULLUS system.
 
@@ -7,14 +7,14 @@ The port-of-entry model describes the layered architecture through which content
 ## The Layered Entry Model
 
 ```
-Layer 0: Pure Existence / Pure-Black-Void-Dark
+Layer 0: Pure Existence / Pure-Black-Ground-Dark
          (the undifferentiated field; before shadow; before potential)
 
-Layer 1: Port of Entry / THE
-         (external observation space; first contact with the system)
-
-Layer 2: Pre-Processing / Rough Intake
+Layer 1: Pre-Processing / Rough Intake
          (ANTE-ESSE waiting; content present but not yet crossing)
+
+Layer 2: Port of Entry / THE
+         (external observation space; first contact with the system)
 
 Layer 3: Official Entry / MAW Intake
          (crossing through SPHINCTER; entering MAW; canonical process begins)
@@ -22,17 +22,29 @@ Layer 3: Official Entry / MAW Intake
 
 ---
 
-## Layer 0: Pure Existence / Pure-Black-Void-Dark
+## Layer 0: Pure Existence / Pure-Black-Ground-Dark
 
-The deepest layer — before shadow, before potential, before even the pre-creation field. This is the undifferentiated ground of existence: the space that precedes even the possibility of NULLUS. It is not void-as-emptiness; it is void-as-absolute-ground — the pure black from which shadow emerges.
+The deepest layer — before shadow, before potential, before even the pre-creation field. This is the undifferentiated ground of existence: the space that precedes even the possibility of NULLUS. It is not emptiness; it is absolute ground — the pure black from which shadow emerges.
 
 Layer 0 is not regularly encountered in the NULLUS architecture. It is documented here for completeness: the deepest stratum beneath the shadow layer.
 
 ---
 
-## Layer 1: Port of Entry / THE
+## Layer 1: Pre-Processing / ANTE-ESSE
 
-THE is the first active layer — the place where content from outside the system makes contact. Layer 1 is:
+Before crossing through THE, content exists in ANTE-ESSE — the pre-processing waiting state. Layer 1 is:
+
+- **Not yet crossing:** Content is present at the system edge but has not passed through THE.
+- **Alive with potential:** Like the queue outside a market gate or the arrivals hall before passport control.
+- **Reversible:** Content in ANTE-ESSE has not yet committed to entry; it may withdraw (though this is uncommon).
+
+The bazaar metaphor: Layer 1 is the courtyard outside the gate, or the arrivals area before customs. You have arrived. You are present. You have not yet crossed.
+
+---
+
+## Layer 2: Port of Entry / THE
+
+THE is the first active crossing layer — the place where content from outside the system makes contact. Layer 2 is:
 
 - **External:** The boundary between inside and outside the system.
 - **Observational:** Content is witnessed here for the first time by the system.
@@ -46,18 +58,6 @@ The port-of-entry metaphor is deliberately broad: think of a **bazaar, a village
 - There is activity, potential, and commerce at the threshold.
 
 THE has this quality: it is not sterile or mechanical. It is alive with the potential of what is waiting to enter.
-
----
-
-## Layer 2: Pre-Processing / ANTE-ESSE
-
-Before crossing through Layer 1, content exists in ANTE-ESSE — the pre-processing waiting state. Layer 2 is:
-
-- **Not yet crossing:** Content is present at the system edge but has not passed through THE.
-- **Alive with potential:** Like the queue outside a market gate or the arrivals hall before passport control.
-- **Reversible:** Content in ANTE-ESSE has not yet committed to entry; it may withdraw (though this is uncommon).
-
-The bazaar metaphor: Layer 2 is the courtyard outside the gate, or the arrivals area before customs. You have arrived. You are present. You have not yet crossed.
 
 ---
 
@@ -77,7 +77,7 @@ The airport metaphor: Layer 3 is the customs hall. You have passed through passp
 
 The port-of-entry model can be understood through familiar threshold spaces:
 
-| Metaphor | Layer 0 | Layer 1 (THE) | Layer 2 (ANTE-ESSE) | Layer 3 (MAW) |
+| Metaphor | Layer 0 | Layer 1 (ANTE-ESSE) | Layer 2 (THE) | Layer 3 (MAW) |
 |---|---|---|---|---|
 | **Airport** | Deep sea / origin country | International arrivals zone | Pre-customs queue | Customs processing |
 | **Bazaar** | The desert beyond | The city gate / market entrance | The crowd at the gate | The market interior |
@@ -99,6 +99,13 @@ The port-of-entry model is analogous to — but distinct from — the NULLUS pol
 | **Final state** | System Canon | Inverted polarity |
 
 Both involve a crossing through a threshold. Both preserve the entity's identity through the crossing. Both involve the mark of having crossed.
+
+---
+
+## Improvement Notes 🍥
+
+- Consider adding a small visual flow diagram to reinforce the sequence: ANTE-ESSE → THE/SPHINCTER → MAW.
+- Consider adding direct glossary links for "shadow" and "void" terminology to prevent future semantic drift.
 
 ---
 
