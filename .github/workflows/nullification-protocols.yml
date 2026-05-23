@@ -1,0 +1,55 @@
+name: Nullification Protocols
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+jobs:
+  validate-repository:
+    name: Validate Repository Integrity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run repository validation script
+        run: bash scripts/validate-repo.sh
+
+      - name: Verify anchor phrase — I was naught
+        run: |
+          if grep -r "I was naught" --include="*.md" . | grep -q .; then
+            echo "✓ Anchor phrase 'I was naught' found."
+          else
+            echo "✗ Anchor phrase 'I was naught' not found in any Markdown file."
+            exit 1
+          fi
+
+      - name: Verify anchor phrase — NUNC NULLUS
+        run: |
+          if grep -r "NUNC NULLUS" --include="*.md" . | grep -q .; then
+            echo "✓ Anchor phrase 'NUNC NULLUS' found."
+          else
+            echo "✗ Anchor phrase 'NUNC NULLUS' not found in any Markdown file."
+            exit 1
+          fi
+
+      - name: Verify anchor phrase — ANTE-ESSE
+        run: |
+          if grep -r "ANTE-ESSE" --include="*.md" . | grep -q .; then
+            echo "✓ Anchor phrase 'ANTE-ESSE' found."
+          else
+            echo "✗ Anchor phrase 'ANTE-ESSE' not found in any Markdown file."
+            exit 1
+          fi
+
+      - name: Verify anchor phrase — inversion threshold
+        run: |
+          if grep -r "inversion threshold" --include="*.md" . | grep -q .; then
+            echo "✓ Anchor phrase 'inversion threshold' found."
+          else
+            echo "✗ Anchor phrase 'inversion threshold' not found in any Markdown file."
+            exit 1
+          fi
