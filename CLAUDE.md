@@ -9,8 +9,8 @@ it in the PR rather than inventing it.
 
 ## What this repository is
 
-NULLUS is **being-as-naught** — the "I AM of naught" (`fui nullus`: _I existed,
-as naught_; never `non fui`: _I was not_). It is the inversion threshold between
+NULLUS is **being-as-naught** — the "I AM of naught" (`fui nullus`: *I existed,
+as naught*; never `non fui`: *I was not*). It is the inversion threshold between
 the extremes (-1K ↔ +1K). It is not void, not zero, not absence, and not
 programming `null`.
 
