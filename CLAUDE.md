@@ -72,14 +72,14 @@ grep -rniE '\b(erase|wipe|destroy)\b' --include='*.md' .
 
 ## Open questions — do not resolve without the owner
 
-- **Where Maw sits.** The handoff chain reads _Unknowable → Maw → Known_naught →
-  Nullus → Unknown → naught_. This repo's `docs/architecture.md` reads
-  _ANTE-ESSE → THE/SPHINCTER → MAW → System Canon_ (MAW downstream of NULLUS).
+- **Where Maw sits.** The handoff chain reads *Unknowable → Maw → Known_naught →
+  Nullus → Unknown → naught*. This repo's `docs/architecture.md` reads
+  *ANTE-ESSE → THE/SPHINCTER → MAW → System Canon* (MAW downstream of NULLUS).
   Both may be true at different scales, or one supersedes the other. Carry both;
   pick neither.
 - **Founding definition.** The handoff quotes Nullus's founding definition as
-  _"Empty had something and lost it. Nullus = the state before 'something' was
-  ever a category."_ The Charter defines NULLUS as the inversion threshold
+  *"Empty had something and lost it. Nullus = the state before 'something' was
+  ever a category."* The Charter defines NULLUS as the inversion threshold
   between extremes. How the two sit together (pre-category origin vs. threshold)
   is the owner's to state.
 - **"Retroactive healing."** Charter §IV says a distressed state is removed
