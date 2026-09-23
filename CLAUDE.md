@@ -68,9 +68,11 @@ Canon lives here and outranks this file:
    silently.
 2. **Nullification via gas transfer.** The term comes from the Act II handoff,
    not from this repo's canon; it is not yet in `docs/glossary.md` (see Open
-   questions). As the handoff states it: movement is an instantaneous semantic
-   copy — shape-agnostic, container-independent. A new state is produced; the
-   prior state is preserved and traceable. Nothing is mutated in place.
+   questions). eaprime1 names the underlying process: **imprinting the
+   information into a gas field**. It is still being developed. As the handoff
+   states it: movement is an instantaneous semantic copy — shape-agnostic,
+   container-independent. A new state is produced; the prior state is
+   preserved and traceable. Nothing is mutated in place.
 3. **Hand off cleanly to naught.** Output leaves as `unknown` (anti_vector) into
    `eaprime1/naught`'s intake. Keep the interface minimal; don't import naught's
    internals or assume shared runtime state.
@@ -125,11 +127,13 @@ Available in this repo; run from the repo root.
 
 ## Open questions — do not resolve without the owner
 
-- **Where Maw sits.** The handoff chain reads *Unknowable → Maw → Known_naught →
-  Nullus → Unknown → naught*. This repo's `docs/architecture.md` reads
-  *ANTE-ESSE → THE/SPHINCTER → MAW → System Canon* (MAW downstream of NULLUS).
-  Both may be true at different scales, or one supersedes the other. Carry both;
-  pick neither.
+- **Where Maw sits — answered, canon not yet aligned.** eaprime1 (session,
+  202609230813): *the Maw is before Nullus*, and material leaving the Maw goes
+  to Nullus for nullification. The handoff chain agrees (*Unknowable → Maw →
+  Known_naught → Nullus → Unknown → naught*). This repo's
+  `docs/architecture.md` still reads *ANTE-ESSE → THE/SPHINCTER → MAW → System
+  Canon*. Aligning the canon docs is a canon change for the owner, not this
+  file's to make.
 - **Founding definition.** The handoff quotes Nullus's founding definition as
   *"Empty had something and lost it. Nullus = the state before 'something' was
   ever a category."* The Charter defines NULLUS as the inversion threshold
@@ -140,8 +144,10 @@ Available in this repo; run from the repo root.
   lessons it carried." Confirm that the original record itself is held (not
   just its lessons), so this stays consistent with no-erasure.
 - **Gas transfer in canon.** Responsibility 2 uses the handoff's definition.
-  Whether it enters `docs/glossary.md`, and how it sits beside the canon's own
-  inversion model in `core/`, is the owner's to decide.
+  eaprime1 has named the process (imprinting information into a gas field) and
+  marked it as needing development. What the imprint carries, whether the term
+  enters `docs/glossary.md`, and how it sits beside the canon's own inversion
+  model in `core/` are the owner's to decide.
 - **`prima.yaml` is still the unfilled template** (`name: "My Prima Terminal"`).
   Naming it is an owner act.
 
