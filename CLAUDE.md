@@ -66,7 +66,9 @@ Canon lives here and outranks this file:
    entered, from where, when (prima-clock `YYYYMMDDHHMM`), and in what state it
    left. If a record can't be written, say so in the PR rather than proceeding
    silently.
-2. **Nullification via gas transfer.** Movement is an instantaneous semantic
+2. **Nullification via gas transfer.** The term comes from the Act II handoff,
+   not from this repo's canon; it is not yet in `docs/glossary.md` (see Open
+   questions). As the handoff states it: movement is an instantaneous semantic
    copy — shape-agnostic, container-independent. A new state is produced; the
    prior state is preserved and traceable. Nothing is mutated in place.
 3. **Hand off cleanly to naught.** Output leaves as `unknown` (anti_vector) into
@@ -118,7 +120,7 @@ Available in this repo; run from the repo root.
   against hard rule 1:
 
   ```bash
-  grep -rniE '\b(erase|wipe|destroy)\b' --include='*.md' .
+  grep -rniE '\b(erase|delete|wipe|destroy)\b' --include='*.md' .
   ```
 
 ## Open questions — do not resolve without the owner
@@ -137,6 +139,9 @@ Available in this repo; run from the repo root.
   distressed state is removed "from canonical continuity while preserving the
   lessons it carried." Confirm that the original record itself is held (not
   just its lessons), so this stays consistent with no-erasure.
+- **Gas transfer in canon.** Responsibility 2 uses the handoff's definition.
+  Whether it enters `docs/glossary.md`, and how it sits beside the canon's own
+  inversion model in `core/`, is the owner's to decide.
 - **`prima.yaml` is still the unfilled template** (`name: "My Prima Terminal"`).
   Naming it is an owner act.
 
